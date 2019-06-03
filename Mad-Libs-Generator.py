@@ -8,4 +8,4 @@ place = input("type the name of a place (example- classroom)")
 verb = input("type a past tense verb (example- caught)")
 animal = input("type the name of your favorite animal")
 
-print ('Today' + name + 'went to the' + place + 'and then they' + verb + 'a' + animal + '.')
+print ('Today '  + name +  ' went to the ' + place + ' and then they ' + verb + ' a ' + animal + '.')
